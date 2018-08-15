@@ -3,6 +3,6 @@ They will either be paper implementations (if rehashed from other source will pr
 
 
 ## Adversarial Examples
-- Explaining and Harnessing Adversarial Examples [Paper](https://arxiv.org/pdf/1412.6572v3.pdf) [Review]()
+- Explaining and Harnessing Adversarial Examples [[Paper](https://arxiv.org/pdf/1412.6572v3.pdf)] [[Review]()]
 
 
