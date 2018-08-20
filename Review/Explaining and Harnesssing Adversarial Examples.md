@@ -11,7 +11,7 @@
   assumptions on how adv. examples are formed.
 - Hypothesizes that neural network is too linear to resist linear adversarial perturbation.
 - They describe a method for Adversarial Training.
-- Shown that Adversarial Training can result in regularization. 
+- Shown that this method of Adversarial Training can result in regularization. 
 - RBF networks are resistant to adversarial examples.
    
 ## Strengths and Future Questions 
@@ -22,5 +22,6 @@ perturbations. One way to go beyond this trade off is to design more powerful op
 - Finding Models which may be just moderately difficult to optimize but very hard to perturb.
 
 ## Weaknesses & Doubts
-- Assumption that linear nature is completely responsible for Adversarial Examples.
+- Assumption that linear nature is completely responsible for Adversarial Examples, although it emperically fits i believe the simplest 
+explanation may not be the right one in this case.
 - No consideration of NNs which have no simplifying to display linear properties.
