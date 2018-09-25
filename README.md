@@ -14,4 +14,8 @@ They will either be paper implementations (if rehashed from other source will pr
 
 ## Sequence to Sequence Learning
 
-- Sequence to Sequence Learning with Neural Networks.[[Paper](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.md)
+- Sequence to Sequence Learning with Neural Networks. [[Paper](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.md)
+
+
+## Attention Based Models
+- Neural Machine Translation by jointly learning to align and translate [[Paper](https://arxiv.org/abs/1409.0473)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Neural%20Machine%20Translation%20by%20Jointly%20learning%20to%20align%20and%20translate.md)]
