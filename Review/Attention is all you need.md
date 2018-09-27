@@ -4,7 +4,7 @@
 
 - Proposes a new network architecture based solely on attention mechanisms, dispensing with recurrent units and convolutions.
 - Recurrent models inherent sequential natures precludes parallelization within training examples which becomes critical at longer 
-sequence lengths, the tranformer architecture eschews recurrence and entirely relies on an attention mechanis to draw global dependencies 
+sequence lengths, the tranformer architecture eschews recurrence and entirely relies on an attention mechanism(self-attention) to draw global dependencies 
 between input and output.
 - The architecture :
   - The encoder is composed of a stack on 6 identical layers, each layer has two sublayers. The first is a multi-head self attention
@@ -20,6 +20,9 @@ the negatives to make its performance comparable to additive attention.
 ## Strengths
 - Introduces a new pure attention-based network architecture which achieves state of the art performance.
 - Faster to train. 
-
+- Self attention allows the model to be more interpretable. The attention in the model mimics that of typical encoder-decoder models, the encoder and decoder can attend to all positions in the previous layer.  
+- Achieves state of the art performance in WMT tasks.
 
 ## Weaknesses/ Doubts
+- How can the interpretability be understood?
+- Can character transformers be made like char-rnns/char-lstms?
