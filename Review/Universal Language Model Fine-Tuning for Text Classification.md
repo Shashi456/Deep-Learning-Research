@@ -12,4 +12,7 @@ first layer.
   methods used in step 2.
 - Discriminative fine tuning can be simply thought of as having different learning rates for each layer being fine-tuned.
 - Slanted triangular learning rates includes first increasing the learning rate linearly and then decays linearly as well. 
-- 
+- The AWD-LSTM is used as the model architecture.
+- Using ULMFit state of the art performance is reached over all kinds of text classfication tasks.
+- Analysis shows that it is because of all the tricks in the paper including pretraining, using the best possible architecture available
+and the three stages mentioned in the paper make it possible for the state of the art performance to be reached. 
