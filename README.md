@@ -23,3 +23,7 @@ They will either be paper implementations (if rehashed from other source will pr
 
 ## Natural Language Processing 
 - Universal Language Model Fine-tuning for Text Classification [[Paper](https://arxiv.org/abs/1801.06146)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Universal%20Language%20Model%20Fine-Tuning%20for%20Text%20Classification.md)]
+
+
+## One Shot Learning 
+- Siamese Neural networks for One-Shot Image Recognition [[Paper](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Siamese%20Neural%20Networks%20for%20One-shot%20Image%20Recogniton.md)]
