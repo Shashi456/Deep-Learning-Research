@@ -1,5 +1,7 @@
 # Papers
-They will either be paper implementations (if rehashed from other source will provide the source and tell you about the modifications i've done) or/and reviews of various papers i will read over time.
+- They will either be paper implementations (if rehashed from other source will provide the source and tell you about the modifications i've done) or/and reviews of various papers i will read over time.
+
+- A folder called Implementations is also added, these are implementations which couldn't be added anywhere in the rest of my repository. each implementation will be an folder in itself with a readme etc. 
 
 
 ## Adversarial Examples
@@ -27,3 +29,4 @@ They will either be paper implementations (if rehashed from other source will pr
 
 ## One Shot Learning 
 - Siamese Neural networks for One-Shot Image Recognition [[Paper](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Siamese%20Neural%20Networks%20for%20One-shot%20Image%20Recogniton.md)]
+- Learning to compare: Relation Network for Few shot Learning  [[Paper](http://www.robots.ox.ac.uk/~tvg/publications/2018/0431.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/LTC%20Relation%20Network%20for%20few%20shot%20learning.md)][[Code](https://github.com/Shashi456/Papers/blob/master/Implementations/Learning%20to%20Compare%20-%20One%20shot%20Leanring/One%20Shot%20Classification(2).ipynb)]
