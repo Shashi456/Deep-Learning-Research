@@ -23,10 +23,21 @@
 - Neural Machine Translation by jointly learning to align and translate [[Paper](https://arxiv.org/abs/1409.0473)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Neural%20Machine%20Translation%20by%20Jointly%20learning%20to%20align%20and%20translate.md)]
 
 
-## Natural Language Processing 
+## Text Classification
 - Universal Language Model Fine-tuning for Text Classification [[Paper](https://arxiv.org/abs/1801.06146)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Universal%20Language%20Model%20Fine-Tuning%20for%20Text%20Classification.md)]
 
 
 ## One Shot Learning 
 - Siamese Neural networks for One-Shot Image Recognition [[Paper](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Siamese%20Neural%20Networks%20for%20One-shot%20Image%20Recogniton.md)]
 - Learning to compare: Relation Network for Few shot Learning  [[Paper](http://www.robots.ox.ac.uk/~tvg/publications/2018/0431.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/LTC%20Relation%20Network%20for%20few%20shot%20learning.md)][[Code](https://github.com/Shashi456/Papers/blob/master/Implementations/Learning%20to%20Compare%20-%20One%20shot%20Leanring/One%20Shot%20Classification(2).ipynb)]
+
+
+## Abstractive Summarization 
+Abstractive Summarization is the task of compressing and rewriting a long document into a short summary, similar to how humans summarize articles/documents. 
+
+
+## Siamese Networks in NLP 
+Siamese Networks in NLP are mostly used to solve semantic "similarity" and NLI problems. 
+
+
+
