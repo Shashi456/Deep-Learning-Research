@@ -11,7 +11,7 @@
 <?--The Limitations of deep learning in adversarial settings [[Paper](https://arxiv.org/abs/1511.07528)][[Review]()])--?>
 
 ## Neural Style
-- Neural Algorithm of Artistic Style [[Paper](https://arxiv.org/pdf/1508.06576.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/A%20Neural%20Algorithm%20of%20Artistic%20Style.md)][[Code](https://github.com/Shashi456/Neural-Style)]
+- Neural Algorithm of Artistic Style [[Paper](https://arxiv.org/pdf/1508.06576.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/A%20Neural%20Algorithm%20of%20Artistic%20Style.md)][[Code](https://github.com/Shashi456/Neural-Style)][[Article](https://towardsdatascience.com/neural-style-transfer-series-part-2-91baad306b24)]
 
 
 ## Sequence to Sequence Learning
