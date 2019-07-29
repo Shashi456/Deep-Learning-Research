@@ -40,8 +40,4 @@ Abstractive Summarization is the task of compressing and rewriting a long docume
 - Bottom-Up Abstractive Summarization [[Paper](https://arxiv.org/abs/1808.10792)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Bottom%20Up%20Abstractive%20Summarization.md)]
 
 
-## Siamese Networks in NLP 
-Siamese Networks in NLP are mostly used to solve semantic "similarity" and NLI problems. 
-
-
 
