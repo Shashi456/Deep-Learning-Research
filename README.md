@@ -1,5 +1,5 @@
 # Papers
-- They will either be paper implementations (if rehashed from other source will provide the source and tell you about the modifications i've done) or/and reviews of various papers i will read over time.
+- They will either be paper implementations (If the code is borrowed from other sources, I will provide the source and tell you about the modifications i've done) or/and reviews of various papers i will read over time.
 
 
 ## Adversarial Examples
