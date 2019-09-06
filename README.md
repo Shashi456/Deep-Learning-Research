@@ -1,5 +1,5 @@
 # Papers
-These will either be paper implementations or/and reviews of various papers i will read over time.
+These will either be paper implementations or/and reviews of various papers I will read over time.
 
 
 ## Adversarial Examples
