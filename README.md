@@ -37,4 +37,8 @@ These will either be paper implementations or/and reviews of various papers I wi
 - Bottom-Up Abstractive Summarization [[Paper](https://arxiv.org/abs/1808.10792)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Bottom%20Up%20Abstractive%20Summarization.md)]
 
 
+## Language Modeling 
+- CTRL: A Conditional Transformer Language Model for Controllable Generation [[Paper](https://arxiv.org/abs/1909.05858)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/CTRL)]
+
+
 
