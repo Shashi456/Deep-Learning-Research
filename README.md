@@ -1,5 +1,5 @@
 # Papers
-These will either be paper implementations or/and reviews of various papers I will read over time. I currently research on Abstractive Summarization ( A task within NLP).
+These will either be paper implementations or/and reviews of various papers and notes for conference sessions, I will read/watch over time. I currently research on Abstractive Summarization ( A task within NLP).
 
 
 ## Adversarial Examples
