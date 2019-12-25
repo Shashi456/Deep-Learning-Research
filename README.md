@@ -42,7 +42,7 @@ These will either be paper implementations or/and reviews of various papers and 
 
 ### Topic-Based & Query-Based Summarization
 - A Reinforced Topic-Aware Convolutional Sequence-to-Sequence Model for Abstractive Text Summarization [[Paper](https://arxiv.org/abs/1805.03616)][[Review](./Review/RConvS2Ssummarization.md)]
-<!-- - Query-Based Abstractive Summarization Using Neural Networks [[Paper]()][[Review]()] -->
+- Query-Based Abstractive Summarization Using Neural Networks [[Paper](https://arxiv.org/abs/1712.06100)][[Review](./Review/QueryBasedSummNN.md)]
 
 
 
