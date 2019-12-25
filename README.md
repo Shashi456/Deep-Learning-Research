@@ -35,6 +35,16 @@ These will either be paper implementations or/and reviews of various papers and 
 - Improving Abstraction in Text Summarization [[Paper](https://arxiv.org/abs/1808.07913)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Improving%20Abstraction%20in%20Text%20Summarization.md)]
 - Multi-Reward Reinforced Summarization with Saliency and Entailment [[Paper](https://arxiv.org/abs/1804.06451)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Multi%20Reward%20Reinforced%20Summarization.md)]
 - Bottom-Up Abstractive Summarization [[Paper](https://arxiv.org/abs/1808.10792)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Bottom%20Up%20Abstractive%20Summarization.md)]
+<!-- - Abstractive Text Summarization by Incorporating Reader Comments [[Paper]()][[Review]()]
+- Global Encoding For Abstractive Summarization [[Paper]()][[Review]()]
+- HIBERT [[Paper]()][[Review]()] -->
+
+
+### Topic-Based & Query-Based Summarization
+- A Reinforced Topic-Aware Convolutional Sequence-to-Sequence Model for Abstractive Text Summarization [[Paper](https://arxiv.org/abs/1805.03616)][[Review](./Review/RConvS2Ssummarization.md)]
+<!-- - Query-Based Abstractive Summarization Using Neural Networks [[Paper]()][[Review]()] -->
+
+
 
 
 ## Language Modeling 
