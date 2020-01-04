@@ -25,12 +25,12 @@ These will either be paper implementations or/and reviews of various papers and 
 - Universal Language Model Fine-tuning for Text Classification [[Paper](https://arxiv.org/abs/1801.06146)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Universal%20Language%20Model%20Fine-Tuning%20for%20Text%20Classification.md)]
 
 
-## One Shot Learning 
+## One Shot Learning
 - Siamese Neural networks for One-Shot Image Recognition [[Paper](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Siamese%20Neural%20Networks%20for%20One-shot%20Image%20Recogniton.md)]
 - Learning to compare: Relation Network for Few shot Learning  [[Paper](http://www.robots.ox.ac.uk/~tvg/publications/2018/0431.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/LTC%20Relation%20Network%20for%20few%20shot%20learning.md)][[Code](https://github.com/Shashi456/Papers/blob/master/Implementations/Learning%20to%20Compare%20-%20One%20shot%20Leanring/One%20Shot%20Classification(2).ipynb)]
 
 
-## Abstractive Summarization 
+## Abstractive Summarization
 - Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting [[Paper](https://arxiv.org/abs/1805.11080)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Fast%20Abstractive%20Summarization%20with%20Reinforce-Selected%20Sentence%20Rewriting.md)]
 - Improving Abstraction in Text Summarization [[Paper](https://arxiv.org/abs/1808.07913)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Improving%20Abstraction%20in%20Text%20Summarization.md)]
 - Multi-Reward Reinforced Summarization with Saliency and Entailment [[Paper](https://arxiv.org/abs/1804.06451)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Multi%20Reward%20Reinforced%20Summarization.md)]
@@ -43,12 +43,10 @@ These will either be paper implementations or/and reviews of various papers and 
 ### Topic-Based & Query-Based Summarization
 - A Reinforced Topic-Aware Convolutional Sequence-to-Sequence Model for Abstractive Text Summarization [[Paper](https://arxiv.org/abs/1805.03616)][[Review](./Review/RConvS2Ssummarization.md)]
 - Query-Based Abstractive Summarization Using Neural Networks [[Paper](https://arxiv.org/abs/1712.06100)][[Review](./Review/QueryBasedSummNN.md)]
+- Transforming Wikipedia into Augmented Data for Query Focused Summarization [[Paper](https://arxiv.org/abs/1911.03324)][[Review](./Review/AugmentWikiforQueryBasedSumm.md)]
 
 
 
 
-## Language Modeling 
+## Language Modeling
 - CTRL: A Conditional Transformer Language Model for Controllable Generation [[Paper](https://arxiv.org/abs/1909.05858)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/CTRL)]
-
-
-
