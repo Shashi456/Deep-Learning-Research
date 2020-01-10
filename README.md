@@ -11,6 +11,8 @@ These will either be paper implementations or/and reviews of various papers and 
 ## Neural Style
 - Neural Algorithm of Artistic Style [[Paper](https://arxiv.org/pdf/1508.06576.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/A%20Neural%20Algorithm%20of%20Artistic%20Style.md)][[Code](https://github.com/Shashi456/Neural-Style)][[Article](https://towardsdatascience.com/neural-style-transfer-series-part-2-91baad306b24)]
 
+## Image Classification 
+- Very Deep Convolutional Networks for Large Scale Image Recognition [[Paper](https://arxiv.org/pdf/1409.1556.pdf)][[Review](./Review/VGG.md)]
 
 ## Sequence to Sequence Learning
 
