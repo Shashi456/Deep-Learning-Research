@@ -12,6 +12,12 @@ These will either be paper implementations or/and reviews of various papers and 
 - Neural Algorithm of Artistic Style [[Paper](https://arxiv.org/pdf/1508.06576.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/A%20Neural%20Algorithm%20of%20Artistic%20Style.md)][[Code](https://github.com/Shashi456/Neural-Style)][[Article](https://towardsdatascience.com/neural-style-transfer-series-part-2-91baad306b24)]
 
 
+## One Shot Learning
+- Siamese Neural networks for One-Shot Image Recognition [[Paper](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Siamese%20Neural%20Networks%20for%20One-shot%20Image%20Recogniton.md)]
+- Learning to compare: Relation Network for Few shot Learning  [[Paper](http://www.robots.ox.ac.uk/~tvg/publications/2018/0431.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/LTC%20Relation%20Network%20for%20few%20shot%20learning.md)][[Code](https://github.com/Shashi456/Papers/blob/master/Implementations/Learning%20to%20Compare%20-%20One%20shot%20Leanring/One%20Shot%20Classification(2).ipynb)]
+
+
+## Natural Language Processing
 ## Sequence to Sequence Learning
 
 - Sequence to Sequence Learning with Neural Networks. [[Paper](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.md)]
@@ -23,11 +29,6 @@ These will either be paper implementations or/and reviews of various papers and 
 
 ## Text Classification
 - Universal Language Model Fine-tuning for Text Classification [[Paper](https://arxiv.org/abs/1801.06146)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Universal%20Language%20Model%20Fine-Tuning%20for%20Text%20Classification.md)]
-
-
-## One Shot Learning
-- Siamese Neural networks for One-Shot Image Recognition [[Paper](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Siamese%20Neural%20Networks%20for%20One-shot%20Image%20Recogniton.md)]
-- Learning to compare: Relation Network for Few shot Learning  [[Paper](http://www.robots.ox.ac.uk/~tvg/publications/2018/0431.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/LTC%20Relation%20Network%20for%20few%20shot%20learning.md)][[Code](https://github.com/Shashi456/Papers/blob/master/Implementations/Learning%20to%20Compare%20-%20One%20shot%20Leanring/One%20Shot%20Classification(2).ipynb)]
 
 
 ## Abstractive Summarization
@@ -47,7 +48,9 @@ These will either be paper implementations or/and reviews of various papers and 
 - Extreme Summarization with Topic Aware Convolutional Neural Networks [[Paper][v2](https://arxiv.org/abs/1907.08722)[v1](https://arxiv.org/pdf/1808.08745.pdf)][[Review](./Review/XSUM.md)]
 
 
-
-
 ## Language Modeling
-- CTRL: A Conditional Transformer Language Model for Controllable Generation [[Paper](https://arxiv.org/abs/1909.05858)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/CTRL)]
+- CTRL: A Conditional Transformer Language Model for Controllable Generation [[Paper](https://arxiv.org/abs/1909.05858)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/CTRL.md)]
+
+
+## Training
+- Von Mises-Fisher Loss for training Seq2Seq Models with Continous Outputs [[Paper](https://arxiv.org/pdf/1812.04616.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/VonMisesLoss.md)]
