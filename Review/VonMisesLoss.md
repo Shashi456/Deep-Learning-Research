@@ -10,4 +10,4 @@
 - Subword Based Methods make the model truly open vocabulary and was the earlier solution to the vocabulary problem, it is the current SOTA for Machine Translation and is used as the baseline in the paper. (BPE Encoding)
 - The formalisation of the generation step is as follows, the models produces e_^ and the ouput word is predicted by searching for the nearest neighbor of e_^ in the embedding space, but while training since both are known the distance is just minimized.
 <img src='../Images/VMFL.png'>
-- 
+- A Novel probabilistic loss function is introduced, to estimate directional distribution von mises-Fisher defined over a hyperspher of unit norm is used.
