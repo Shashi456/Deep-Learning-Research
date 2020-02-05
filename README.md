@@ -11,6 +11,8 @@ These will either be paper implementations or/and reviews of various papers and 
 ## Neural Style
 - Neural Algorithm of Artistic Style [[Paper](https://arxiv.org/pdf/1508.06576.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/A%20Neural%20Algorithm%20of%20Artistic%20Style.md)][[Code](https://github.com/Shashi456/Neural-Style)][[Article](https://towardsdatascience.com/neural-style-transfer-series-part-2-91baad306b24)]
 
+## Image Classification 
+- Very Deep Convolutional Networks for Large Scale Image Recognition [[Paper](https://arxiv.org/pdf/1409.1556.pdf)][[Review](./Review/VGG.md)]
 
 ## One Shot Learning
 - Siamese Neural networks for One-Shot Image Recognition [[Paper](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Siamese%20Neural%20Networks%20for%20One-shot%20Image%20Recogniton.md)]
@@ -36,6 +38,7 @@ These will either be paper implementations or/and reviews of various papers and 
 - Improving Abstraction in Text Summarization [[Paper](https://arxiv.org/abs/1808.07913)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Improving%20Abstraction%20in%20Text%20Summarization.md)]
 - Multi-Reward Reinforced Summarization with Saliency and Entailment [[Paper](https://arxiv.org/abs/1804.06451)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Multi%20Reward%20Reinforced%20Summarization.md)]
 - Bottom-Up Abstractive Summarization [[Paper](https://arxiv.org/abs/1808.10792)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Bottom%20Up%20Abstractive%20Summarization.md)]
+- Topic Augmented Generator for Abstractive Summarization [[Paper](https://arxiv.org/abs/1908.07026)][[Review](./Review/TopicAugmentedGenAbsSumm)]
 <!-- - Abstractive Text Summarization by Incorporating Reader Comments [[Paper]()][[Review]()]
 - Global Encoding For Abstractive Summarization [[Paper]()][[Review]()]
 - HIBERT [[Paper]()][[Review]()] -->

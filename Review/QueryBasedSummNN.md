@@ -8,3 +8,10 @@
 - There is a loss for the pointer mechanism, the attention mechanism and the generation mechanism, which is added and normalized by the length.
 - Summaries are decoded using beam search.
 - A dataset is constructed of the original CNN/DailyMail QA dataset, which consisted of document-query-answer triples. The original method was to use close style questions in which the answer was masked and made to be predicted, in this the inverse is done where the word masked is used as the query and the summary has to be generated.
+
+## Strengths 
+- The idea that QA datasets can be looked at as Query Based Summarization is useful for the problem in general. 
+- A proof of concept for usage of queries in abstractive summarization. 
+
+## Weaknesses 
+- The results are underwhelming, failing to cross even 20 R-1 scores, which makes me wonder if the architecture or the dataset remodeling wasn't suited for this particular task. 
