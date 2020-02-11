@@ -11,3 +11,19 @@
 - The formalisation of the generation step is as follows, the models produces e_^ and the ouput word is predicted by searching for the nearest neighbor of e_^ in the embedding space, but while training since both are known the distance is just minimized.
 <img src='../Images/VMFL.png'>
 - A Novel probabilistic loss function is introduced, to estimate directional distribution von mises-Fisher defined over a hyperspher of unit norm is used.
+- A regularization term is added, since the current formalization decreases the second term rapidly.
+- A variety of experiments are done involving, tying embeddings, using word2vec/fasttext and training times are noted.
+<img src='../Images/VMFL2.png'>
+<img src='../Images/VMFL1.png'>
+
+## Future work
+- Experiment with contextual embeddings, although learnt in a completely different fashion, it might also make us interpret the behaviour of these words.
+- The paper mentions two follow-ups:
+  - Integrating a pre-trained LM to reduce ungrammatical outputs.
+  - Using syntactically inspired embeddings like (Levy & goldberg 2014, Ling et al 2015) to reduce syntatic errors.
+- Exploring Additional Loss Functions.
+- Introducing Beam search to continual Outputs.
+- Using Scheduled Sampling etc.
+- Most of the follow up work has to definitely experiment with different types of embeddings.
+- Use of this function in RL-NLP will help and can help GAN based NLP as well.
+<img src='../Images/VMFL3.png'>
