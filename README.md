@@ -39,6 +39,7 @@ These will either be paper implementations or/and reviews of various papers and 
 - Multi-Reward Reinforced Summarization with Saliency and Entailment [[Paper](https://arxiv.org/abs/1804.06451)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Multi%20Reward%20Reinforced%20Summarization.md)]
 - Bottom-Up Abstractive Summarization [[Paper](https://arxiv.org/abs/1808.10792)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Bottom%20Up%20Abstractive%20Summarization.md)]
 - Topic Augmented Generator for Abstractive Summarization [[Paper](https://arxiv.org/abs/1908.07026)][[Review](./Review/TopicAugmentedGenAbsSumm)]
+- Earlier Isn’t Always Better: Sub-aspect Analysis on Corpus and System Biases in Summarization [[Paper](https://arxiv.org/abs/1908.11723)][[Review](./Review/SummBiases.md)]
 <!-- - Abstractive Text Summarization by Incorporating Reader Comments [[Paper]()][[Review]()]
 - Global Encoding For Abstractive Summarization [[Paper]()][[Review]()]
 - HIBERT [[Paper]()][[Review]()] -->
@@ -48,19 +49,11 @@ These will either be paper implementations or/and reviews of various papers and 
 - A Reinforced Topic-Aware Convolutional Sequence-to-Sequence Model for Abstractive Text Summarization [[Paper](https://arxiv.org/abs/1805.03616)][[Review](./Review/RConvS2Ssummarization.md)]
 - Query-Based Abstractive Summarization Using Neural Networks [[Paper](https://arxiv.org/abs/1712.06100)][[Review](./Review/QueryBasedSummNN.md)]
 - Transforming Wikipedia into Augmented Data for Query Focused Summarization [[Paper](https://arxiv.org/abs/1911.03324)][[Review](./Review/AugmentWikiforQueryBasedSumm.md)]
-<<<<<<< HEAD
-- Extreme Summarization with Topic Aware Convolutional Neural Networks [Paper[[v2](https://arxiv.org/abs/1907.08722)][[v1](https://arxiv.org/pdf/1808.08745.pdf)]][[Review](./Review/XSUM.md)]
-||||||| merged common ancestors
-- Extreme Summarization with Topic Aware Convolutional Neural Networks [[Paper][v2](https://arxiv.org/abs/1907.08722)[v1](https://arxiv.org/pdf/1808.08745.pdf)][[Review](./Review/XSUM.md)]
-
-
-=======
 - Extreme Summarization with Topic Aware Convolutional Neural Networks [[Paper][v2](https://arxiv.org/abs/1907.08722)[v1](https://arxiv.org/pdf/1808.08745.pdf)][[Review](./Review/XSUM.md)]
 
 
 ## Language Modeling
 - CTRL: A Conditional Transformer Language Model for Controllable Generation [[Paper](https://arxiv.org/abs/1909.05858)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/CTRL.md)]
->>>>>>> 14a75ad8f63b354f93c8600349875821c2b66029
 
 
 ## Training
