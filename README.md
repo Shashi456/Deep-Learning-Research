@@ -42,6 +42,7 @@ These will either be paper implementations or/and reviews of various papers and 
 <!-- - Abstractive Text Summarization by Incorporating Reader Comments [[Paper]()][[Review]()]
 - Global Encoding For Abstractive Summarization [[Paper]()][[Review]()]
 - HIBERT [[Paper]()][[Review]()] -->
+- Neural Text Summarization: A Critical Evaluation [[Paper](https://www.aclweb.org/anthology/D19-1051.pdf)][[Review](./Review/NeuralTextSumm.md)]
 
 
 ### Topic-Based & Query-Based Summarization
