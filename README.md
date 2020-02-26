@@ -50,8 +50,6 @@ These will either be paper implementations or/and reviews of various papers and 
 - Query-Based Abstractive Summarization Using Neural Networks [[Paper](https://arxiv.org/abs/1712.06100)][[Review](./Review/QueryBasedSummNN.md)]
 - Transforming Wikipedia into Augmented Data for Query Focused Summarization [[Paper](https://arxiv.org/abs/1911.03324)][[Review](./Review/AugmentWikiforQueryBasedSumm.md)]
 - Extreme Summarization with Topic Aware Convolutional Neural Networks [Paper[[v2](https://arxiv.org/abs/1907.08722)][[v1](https://arxiv.org/pdf/1808.08745.pdf)]][[Review](./Review/XSUM.md)]
-- Extreme Summarization with Topic Aware Convolutional Neural Networks [[Paper][v2](https://arxiv.org/abs/1907.08722)[v1](https://arxiv.org/pdf/1808.08745.pdf)][[Review](./Review/XSUM.md)]
-- Extreme Summarization with Topic Aware Convolutional Neural Networks [[Paper][v2](https://arxiv.org/abs/1907.08722)[v1](https://arxiv.org/pdf/1808.08745.pdf)][[Review](./Review/XSUM.md)]
 
 
 ## Language Modeling
