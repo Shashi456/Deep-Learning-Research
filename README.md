@@ -49,25 +49,17 @@ These will either be paper implementations or/and reviews of various papers and 
 - A Reinforced Topic-Aware Convolutional Sequence-to-Sequence Model for Abstractive Text Summarization [[Paper](https://arxiv.org/abs/1805.03616)][[Review](./Review/RConvS2Ssummarization.md)]
 - Query-Based Abstractive Summarization Using Neural Networks [[Paper](https://arxiv.org/abs/1712.06100)][[Review](./Review/QueryBasedSummNN.md)]
 - Transforming Wikipedia into Augmented Data for Query Focused Summarization [[Paper](https://arxiv.org/abs/1911.03324)][[Review](./Review/AugmentWikiforQueryBasedSumm.md)]
-<<<<<<< HEAD
 - Extreme Summarization with Topic Aware Convolutional Neural Networks [Paper[[v2](https://arxiv.org/abs/1907.08722)][[v1](https://arxiv.org/pdf/1808.08745.pdf)]][[Review](./Review/XSUM.md)]
-||||||| merged common ancestors
 - Extreme Summarization with Topic Aware Convolutional Neural Networks [[Paper][v2](https://arxiv.org/abs/1907.08722)[v1](https://arxiv.org/pdf/1808.08745.pdf)][[Review](./Review/XSUM.md)]
-
-
-=======
 - Extreme Summarization with Topic Aware Convolutional Neural Networks [[Paper][v2](https://arxiv.org/abs/1907.08722)[v1](https://arxiv.org/pdf/1808.08745.pdf)][[Review](./Review/XSUM.md)]
 
 
 ## Language Modeling
 - CTRL: A Conditional Transformer Language Model for Controllable Generation [[Paper](https://arxiv.org/abs/1909.05858)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/CTRL.md)]
->>>>>>> 14a75ad8f63b354f93c8600349875821c2b66029
-
 
 ## Training
 - Von Mises-Fisher Loss for training Seq2Seq Models with Continous Outputs [[Paper](https://arxiv.org/pdf/1812.04616.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/VonMisesLoss.md)]
 
 ## Question Answering
-- Generalizing Question Answering System
-with Pre-trained Language Model Fine-tuning [[Paper](https://www.aclweb.org/anthology/D19-5827/)][[Review](./Review/GeneralizingQAXLNET.md)]
+- Generalizing Question Answering System with Pre-trained Language Model Fine-tuning [[Paper](https://www.aclweb.org/anthology/D19-5827/)][[Review](./Review/GeneralizingQAXLNET.md)]
 - MULTI QA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension [[Paper](https://arxiv.org/abs/1905.13453)][[Review](./Review/MultiQA.md)]
