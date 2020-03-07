@@ -33,6 +33,10 @@ These will either be paper implementations or/and reviews of various papers and 
 - Universal Language Model Fine-tuning for Text Classification [[Paper](https://arxiv.org/abs/1801.06146)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Universal%20Language%20Model%20Fine-Tuning%20for%20Text%20Classification.md)]
 
 
+## Machine Translation
+- Incorporating BERT for Machine Translation. 
+[[Paper](https://arxiv.org/abs/2002.06823v1)][[Review](./Review/BERTMT.md)]
+
 ## Abstractive Summarization
 - Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting [[Paper](https://arxiv.org/abs/1805.11080)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Fast%20Abstractive%20Summarization%20with%20Reinforce-Selected%20Sentence%20Rewriting.md)]
 - Improving Abstraction in Text Summarization [[Paper](https://arxiv.org/abs/1808.07913)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Improving%20Abstraction%20in%20Text%20Summarization.md)]
