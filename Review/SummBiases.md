@@ -7,7 +7,7 @@
 - They also conduct an extensive analysis of the biases of each sub-aspect wrt to 9 different summarization corpora and therefore a notion of "corpora-bias" is established as shown in the figure below.
 <img src='../Images/SysSumm1.png'>
 - It's found that except XSUM, summarization of personal and news articles is biased towards position while academic articles are well balanced. Summarizing long documents is a fundamentally difficult task which requires the usage of these multiple aspects. 
-- A notion of the 3 subaspects is built formally using a BERT sentence encoder:
+- A notion of the 3 sub-aspects is built formally using a BERT sentence encoder:
     - For position, k sentences are chosen from three sections which are the First, last and middle parts of the document. 
     - For diversity, three notions are built. 
         - Default: The Yogatama et al 2015 paper chooses extractive summary sentences that maximize the semantic volume in a distributed semantic space, the objective here is to find a search function which maximizes this volume.

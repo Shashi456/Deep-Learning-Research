@@ -2,7 +2,7 @@
 ## Summary 
 - Recent advances in LM have allowed for generation of coherent text, but they don't allow for 
   controlling aspects of generated text. 
-- CTRL is a LM conditioned on a variety of control codes which specify domain, style, topics, dates, entities and the relationships between them, plot points and task related behaviour. CTRL always conditioned on p(x|c) where c is the control code. 
+- CTRL is a LM conditioned on a variety of control codes which specify domain, style, topics, dates, entities and the relationships between them, plot points and task related behavior. CTRL always conditioned on p(x|c) where c is the control code. 
 - Trained on 140GB of data including Wikipedia, Project Gutenberg, around 45 subreddits, OpenWebText, Europarl etc. 
 - Controllable Generation :
   - Introduce penalized sampling, which trust the model distribution through near-greedy sampling but penalizes for repetition. (Similar to coverage in See et al, Welleck et al).

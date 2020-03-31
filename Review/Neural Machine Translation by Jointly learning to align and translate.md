@@ -18,7 +18,7 @@ the source sentence while "translating".
 sentence which maximizes the conditional probability.
 
 ## Strengths
-- Provides an intuitive way to inspect alignment betwen the words in translation and the source sentence. 
+- Provides an intuitive way to inspect alignment between the words in translation and the source sentence. 
 - Naturally deals with variable lengths of source and target phrases.
 - Can handle longer sentences because only accurately need to encode parts of the input sentence surrounding a particular word.
 - Provides a way of "Attention" in Neural Translation.

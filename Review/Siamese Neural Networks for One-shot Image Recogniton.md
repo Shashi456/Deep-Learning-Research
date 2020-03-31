@@ -15,9 +15,9 @@ into.
 
 ## Strengths
 - An almost human level classifier is made by this network, one shot learning is extremely important to us because humans learn this way, we 
-have a caterogical ability to see objects once and then distinguish them from different viewpoints or from some other object. 
+have a categorical ability to see objects once and then distinguish them from different viewpoints or from some other object. 
 
 ## Weaknesses / Doubts
 - Wouldn't exactly call this novel.
-- I think the architechture can be experimented.
+- I think the architecture can be experimented.
 - Would like to know why it works? In the sense that what is it that the network learns during the initial verification-type learning.

@@ -4,7 +4,7 @@
 - Provides a general end-to-end approach to sequence learning.
 - Introduces a new class of "Encoder-Decoder" architectures for the seq2seq learning.
 - A straightforward LSTM architecture can be used to solve general sequence to sequence problems.
-  - The idea to is use one lstm to read the input sequence, to obtain some sort of "encoding".
+  - The idea to is use one LSTM to read the input sequence, to obtain some sort of "encoding".
   - This encoding is then used by another LSTM to extract the output sequence, this can be thought of as the decoder, which is basically a 
   rnn language model which is conditioned on the input sequence. 
   - LSTMs are used because they can handle long range temporal dependencies and also can map variable length inputs to fixed dimensional 

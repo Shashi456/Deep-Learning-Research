@@ -4,10 +4,10 @@
 
 - This Paper explains why Adversarial Examples are formed.
   - Previous Attempts included complex explanations like Non Linearity, Insufficient Model Average and Insufficient Regularization.
-  - It is shown that linear behaviour in high dimensional planes is sufficient to cause Adversarial Examples.
+  - It is shown that linear behavior in high dimensional planes is sufficient to cause Adversarial Examples.
   - This explanation allows the Authors to design a fast method of generating adversarial examples.
   - One of the major reasons is the perturbations is smaller than the precision of the input feature.
-  - They observe that cheap algos are able to generate misclassified examples and hence this serves as evidence for their 
+  - They observe that cheap algorithms are able to generate misclassified examples and hence this serves as evidence for their 
   assumptions on how adv. examples are formed.
 - Hypothesizes that neural network is too linear to resist linear adversarial perturbation.
 - They describe a method for Adversarial Training.
@@ -22,6 +22,6 @@ perturbations. One way to go beyond this trade off is to design more powerful op
 - Finding Models which may be just moderately difficult to optimize but very hard to perturb.
 
 ## Weaknesses & Doubts
-- Assumption that linear nature is completely responsible for Adversarial Examples, although it emperically fits i believe the simplest 
+- Assumption that linear nature is completely responsible for Adversarial Examples, although it empirically fits i believe the simplest 
 explanation may not be the right one in this case.
 - No consideration of NNs which have no simplifying to display linear properties.

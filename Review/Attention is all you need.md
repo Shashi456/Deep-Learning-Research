@@ -3,9 +3,7 @@
 ## Summary
 
 - Proposes a new network architecture based solely on attention mechanisms, dispensing with recurrent units and convolutions.
-- Recurrent models inherent sequential natures precludes parallelization within training examples which becomes critical at longer 
-sequence lengths, the tranformer architecture eschews recurrence and entirely relies on an attention mechanism(self-attention) to draw global dependencies 
-between input and output.
+- Recurrent models inherent sequential natures precludes parallelization within training examples which becomes critical at longer sequence lengths, the transformer architecture eschews recurrence and entirely relies on an attention mechanism(self-attention) to draw global dependencies between input and output.
 - The architecture :
   - The encoder is composed of a stack on 6 identical layers, each layer has two sublayers. The first is a multi-head self attention
   mechanism and the second is a simple position wise fully connected feed-forward network. A residual connection followed by a layer 
@@ -15,7 +13,7 @@ between input and output.
 - The scaled dot-product attention is employed which is faster and space efficient while at the same time a scaling factor is used in order 
 to counteract effects of dot-product attention, can be thought of as taking the good properties of dot-product attention and counteracting 
 the negatives to make its performance comparable to additive attention.
-- Multi head attention "allows the model to attent to information from different representation subspaces". 
+- Multi head attention "allows the model to attend to information from different representation subspaces". 
 
 ## Strengths
 - Introduces a new pure attention-based network architecture which achieves state of the art performance.
@@ -25,4 +23,4 @@ the negatives to make its performance comparable to additive attention.
 
 ## Weaknesses/ Doubts
 - How can the interpretability be understood?
-- Can character transformers be made like char-rnns/char-lstms?
+- Can character transformers be made like char-RNNs/char-LSTMs?

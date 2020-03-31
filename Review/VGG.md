@@ -1,7 +1,7 @@
 # Very Deep Convolutional Networks for Large Scale Image Recognition
 ## Summary 
 - This papers investigates the depth of convolutional network depth on its accuracy. 
-- This paper also showsd the effectiveness of depth even with very small (3
+- This paper also showed the effectiveness of depth even with very small (3
 *3) convolutional filters, Ultimately showing it can be pushed upto 16-19 layers for maximal effectiveness.
  - The other parameters of the architecture are fixed and only the depth is experimented with.
  - Having multiple lower receptive fields equates to having one larger receptive field filter, but multiplicity of the lower receptiveness through its non-linearity(relu) allows for decision function to be discriminative i.e finetuned. 
@@ -10,7 +10,7 @@
 
  ### Reproducibility details
  - The input to the network is 224*224 RGB image. 
- - The mean RGB value is subracted from each pixel.
+ - The mean RGB value is subtracted from each pixel.
  - The image is passed through a stack of conv layers, with a small receptive field, 3*3.
  - The convolution stride is fixed to one pixel.
  - The spatial padding is so decided such that the spatial resolution is preserved after convolution.  The padding is 1 pixel for 3*3 conv layers. 

@@ -13,5 +13,5 @@
 - Validation of the attack is done by attacking Metamind, Google and Amazon DNNs which misclassify 84.24%, 96.19% and 88.94% of the generated adversarial examples respectively.
 
 ## Strengths and Future Questions
-- Tranferability of Architecture is a new avenue to explore. 
-- The paper combines three properties which are the capability being limited to observing output labels, the number of labels queried is limited ( because extensive quering would lead to detection of adversary) and the approach scales to different ML classifier types.
+- Transferability of Architecture is a new avenue to explore. 
+- The paper combines three properties which are the capability being limited to observing output labels, the number of labels queried is limited ( because extensive querying would lead to detection of adversary) and the approach scales to different ML classifier types.
