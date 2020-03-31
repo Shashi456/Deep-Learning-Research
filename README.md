@@ -63,3 +63,7 @@ These will either be paper implementations or/and reviews of various papers and 
 ## Question Answering
 - Generalizing Question Answering System with Pre-trained Language Model Fine-tuning [[Paper](https://www.aclweb.org/anthology/D19-5827/)][[Review](./Review/GeneralizingQAXLNET.md)]
 - MULTI QA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension [[Paper](https://arxiv.org/abs/1905.13453)][[Review](./Review/MultiQA.md)]
+
+
+## Word Representations and Embeddings 
+- Deep Contextualized word representations - ELMO [[Paper](https://arxiv.org/abs/1802.05365)][[Review](./Review/ELMO.md)]
