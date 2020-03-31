@@ -11,3 +11,4 @@
     - Token Distribution mismatch. 
 - The unlikelihood loss incorporates, the idea of using negative candidates and minimizing their log probabilities, for the candidates previous context tokens are used, this achieves two things incorrect repeating tokens less likely and frequent tokens less likely. 
 - In sequence level unlikelihood objective, negative candidates are to penalize repeating n-grams. 
+- The sequence level unlikelihood objective can be used as a finetuning training objective after originally training on the MLE objective, or it can be used in conjunction with the token level objective. Even with the finetuning objective, unlikelihood training shows substantial gains. 
