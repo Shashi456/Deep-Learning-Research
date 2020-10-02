@@ -38,7 +38,7 @@ These will either be paper implementations or/and reviews of various papers and 
 [[Paper](https://arxiv.org/abs/2002.06823v1)][[Review](./Review/BERTMT.md)]
 
 ## Abstractive Summarization
-- Abstractive Text Summarization Using Sequence to Sequence RNNs and Beyond [[Paper](https://www.aclweb.org/anthology/K16-1028.pdf)][[Review](Review\AbstractiveTextSummUsingRNNs.md)]
+- Abstractive Text Summarization Using Sequence to Sequence RNNs and Beyond [[Paper](https://www.aclweb.org/anthology/K16-1028.pdf)][[Review](Review/AbstractiveTextSummUsingRNNs.md)]
 - Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting [[Paper](https://arxiv.org/abs/1805.11080)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Fast%20Abstractive%20Summarization%20with%20Reinforce-Selected%20Sentence%20Rewriting.md)]
 - Improving Abstraction in Text Summarization [[Paper](https://arxiv.org/abs/1808.07913)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Improving%20Abstraction%20in%20Text%20Summarization.md)]
 - Multi-Reward Reinforced Summarization with Saliency and Entailment [[Paper](https://arxiv.org/abs/1804.06451)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Multi%20Reward%20Reinforced%20Summarization.md)]
