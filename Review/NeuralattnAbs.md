@@ -1,0 +1,25 @@
+# A Neural Attention Model for Abstractive Sentence Summarization
+- One of the first purely generation-style prediction models for abstractive summarization. 
+- Model 
+    - Overview
+        - Conditional Language Model based on input X
+        - Model was akin to NMT approaches and the original distribution is characterized as a neural network. 
+    - Neural Language Model 
+        - Language model which estimates the probability of the next word 
+        - Standard feed forward architecture (NNLM, Bengio et al 2003)
+    - Encoder Types 
+        - BOW encoder
+            - Bag of words of the input sentence embedded down to size H 
+        - Convolutional encoder
+            - Time delay Neural network alternating between temporal convolutional and max pooling layers allows local interactions between words.
+        - Attention Based encoder
+            - Bahdanau style attention based contextual encoder
+            - Think of this model as replacing the uniform distribution from bag of words with a learned soft alignment between input and summary.
+    - Together with NNLM the attention based encoder can be thought similar to the attention based NMT model.
+    - Extension (Extractive Tuning)
+        - After the main neural model is trained the model is finetuned using MERT to adjust the abstractive/extractive tendencies of the model. 
+        - The scoring function is modified to directly estimate the probability of the summary using a log lienar odel. 
+- Training
+    - Negative Loglikelihood with a mini batch stochastic gradient descent
+    - Use beam search decoding 
+    - Tested on DUC and gigaword, achieved state of the art then (2016).
