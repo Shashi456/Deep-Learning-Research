@@ -51,6 +51,7 @@ These will either be paper implementations or/and reviews of various papers and 
 - HIBERT [[Paper]()][[Review]()] -->
 - Neural Text Summarization: A Critical Evaluation [[Paper](https://www.aclweb.org/anthology/D19-1051.pdf)][[Review](./Review/NeuralTextSumm.md)]
 - What have we achieved on Text Summarization [[Paper](https://arxiv.org/pdf/2010.04529.pdf)][[Review](./Review/WHWAIS.md)]
+- Re-evaluating evaluaton in Text Summarization [[Paper](https://arxiv.org/pdf/2010.07100.pdf)][[Review](./Review/REITS.md)]
 
 
 ### Topic-Based & Query-Based Summarization
