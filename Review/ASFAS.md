@@ -1,0 +1,13 @@
+# Analyzing sentence fusion in Abstractive Summarization
+- The paper focuses on analyzing summaries formed by sentence fusion on the basis of faithfulness, grammaticality and method of fusion for summary sentences.
+- Findings
+    - System outputs are more likely to be not factual compared to being ungrammatical.
+    - Systems oftens simply concatenate rather than entity replacement while performing sentence fusion.
+        - They are also generally more faithful.
+    - Systems struggle to reliably perform complex fusion because they lead to incorrect facts.
+        - System summary sentences formed by fusion also have low faithfulness compared to reference summaries.
+- Different methods of fusion are 
+    - Replacement (usually entity/pronoun)
+    - Balanced concatenation (Similar length sentence fusion)
+    - Imbalanced concatenation (Dissimilar length sentence fusion)
+    - All other cases.
