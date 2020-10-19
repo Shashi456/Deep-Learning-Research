@@ -1,0 +1,12 @@
+# On Faithfulness and Factuality in Abstractive Summarization 
+- Abstractive summarization models are prone to factual errors and various hallucinations.
+- The contribution of this paper doing a large scale human evaluation of neural abstractive summarization systems and understand the ways in which these models hallucinate while generating outputs. 
+- Conclusions include 
+    - Intrinsic (manipulate information present in the input document) and extrinsic (adding information not directly inferable from the input document) hallucinations happen frequently - in more than 70% single sentence summariies.
+    - Majority of hallucinations are extrinsic.
+        - Extrinsic hallucinations sometimes occur due to divergence between source and target.
+    - Pretrained models perform best when it comes to both automatic metrics and human judgements of faithfulness/factuality.
+    - ROUGE/ BERTScore correlate less with faithfulness/factuality than metric derived from automatic semantic inference systems. They are indicators of informativeness of summaries but they are not sufficient metrics to assess the overall quality of summaries.
+- Although entailment can be used as an automatic measure of faithfulness it is referenceless.
+    - This can be used as a model selection criteria.
+    - There is a trade-off in terms of ROUGE.
