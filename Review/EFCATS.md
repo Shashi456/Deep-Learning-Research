@@ -1,0 +1,16 @@
+# Evaluating the Factual Consistency of Abstractive Text Summarization.
+- There are many issues that still plague summarization
+    - Insufficient evaluation protocols that leave important dimensions like 
+        - Factual Consistency
+        - Unchecked 
+        - Noisy
+        - Automatically collected datasets that leave the task undercontrained
+        - Strong, domain specific layout biases in the data that dominate training signal.
+- This paper aims to address the problem of verifying factual consistency (focuses on adherence of facts to information provided by a source document without guarantee that the information is true).
+- They propose a document-sentence approach for factual consistency checking (FactCC): each sentence of the of the summary is verified against the entire body of the source document. 
+    - A BERT based architecture was used and finetuned, where in a single layer classifier is fed a source document and "claim" sentence and classifies it between consistent and inconsistent.
+    - This model has limitations around errors which include
+        - Commonsense mistakes made by summarization models
+        - Temporal inconsistencies
+        - Incorrect coreference
+        - Dependencies between different sentences in the same summary.
