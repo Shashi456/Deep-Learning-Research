@@ -11,7 +11,7 @@
     - Additional inductive bias is needed to condense multiple sentences by rephrasing.
 - FEQA 
     - The model correlated better with human judgment compared to other automatic metrics but is limited by the quality of the QA model.
-    <img src='../Images/feqa1.jpg'>
+    <img src='../Images/feqa1.JPG'>
 - Findings
     - Entailment metric does not have a significant correlation with faithfulness.
     - Models might be good at copying important source content, but tend to concatenate unrelated spans and hallucinate details when generating abstractive sentences.
