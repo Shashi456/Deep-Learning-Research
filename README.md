@@ -46,9 +46,6 @@ These will either be paper implementations or/and reviews of various papers and 
 - Bottom-Up Abstractive Summarization [[Paper](https://arxiv.org/abs/1808.10792)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Bottom%20Up%20Abstractive%20Summarization.md)]
 - Topic Augmented Generator for Abstractive Summarization [[Paper](https://arxiv.org/abs/1908.07026)][[Review](./Review/TopicAugmentedGenAbsSumm)]
 - Earlier Isn’t Always Better: Sub-aspect Analysis on Corpus and System Biases in Summarization [[Paper](https://arxiv.org/abs/1908.11723)][[Review](./Review/SummBiases.md)]
-<!-- - Abstractive Text Summarization by Incorporating Reader Comments [[Paper]()][[Review]()]
-- Global Encoding For Abstractive Summarization [[Paper]()][[Review]()]
-- HIBERT [[Paper]()][[Review]()] -->
 - Neural Text Summarization: A Critical Evaluation [[Paper](https://www.aclweb.org/anthology/D19-1051.pdf)][[Review](./Review/NeuralTextSumm.md)]
 - What have we achieved on Text Summarization [[Paper](https://arxiv.org/pdf/2010.04529.pdf)][[Review](./Review/WHWAIS.md)]
 - Re-evaluating evaluaton in Text Summarization [[Paper](https://arxiv.org/pdf/2010.07100.pdf)][[Review](./Review/REITS.md)]
@@ -58,7 +55,9 @@ These will either be paper implementations or/and reviews of various papers and 
 - Analyzing sentence fusion in Abstractive Summarization [[Paper](https://www.aclweb.org/anthology/D19-5413.pdf)][[Review](./Review/ASFAS.md)]
 - On the Abstractiveness of Neural Document Summarization [[Paper](https://www.aclweb.org/anthology/D18-1089.pdf)][[Review](./Review/OANDS.md)]
 - Evaluating the Factual Consistency of Abstractive Text Summarization. [[Paper](https://arxiv.org/pdf/1910.12840.pdf)][[Review](./Review/EFCATS.md)]
-
+<!-- - Abstractive Text Summarization by Incorporating Reader Comments [[Paper]()][[Review]()]
+- Global Encoding For Abstractive Summarization [[Paper]()][[Review]()]
+- HIBERT [[Paper]()][[Review]()] -->
 ### Topic-Based & Query-Based Summarization
 - A Reinforced Topic-Aware Convolutional Sequence-to-Sequence Model for Abstractive Text Summarization [[Paper](https://arxiv.org/abs/1805.03616)][[Review](./Review/RConvS2Ssummarization.md)]
 - Query-Based Abstractive Summarization Using Neural Networks [[Paper](https://arxiv.org/abs/1712.06100)][[Review](./Review/QueryBasedSummNN.md)]
@@ -70,7 +69,7 @@ These will either be paper implementations or/and reviews of various papers and 
 
 ## Training
 - Von Mises-Fisher Loss for training Seq2Seq Models with Continous Outputs [[Paper](https://arxiv.org/pdf/1812.04616.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/VonMisesLoss.md)]
-- Neural Text Degeneration with Unlikelihood Training/ [[Paper](https://arxiv.org/abs/1908.04319)][[Review](./Review/unlikelihooddegen.md)]
+- Neural Text Degeneration with Unlikelihood Training [[Paper](https://arxiv.org/abs/1908.04319)][[Review](./Review/unlikelihooddegen.md)]
 - The curious case of neural text degeneration [[Paper](https://arxiv.org/abs/1904.09751)] [[Review](./Review/ccdegen.md)]
 
 ## Question Answering
