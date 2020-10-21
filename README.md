@@ -79,4 +79,4 @@ These will either be paper implementations or/and reviews of various papers and 
 
 ## Word Representations and Embeddings 
 - Deep Contextualized word representations - ELMO [[Paper](https://arxiv.org/abs/1802.05365)][[Review](./Review/ELMO.md)]
-- Information-Theoretic Probing with Minimum Description Length [[Paper]()][[Review]()]
+- Information-Theoretic Probing with Minimum Description Length [[Paper](https://arxiv.org/abs/2003.12298)][[Review]()]
