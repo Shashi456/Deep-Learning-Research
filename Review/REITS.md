@@ -7,7 +7,8 @@
 - Method of collecting human judgements -> Generate summaries, select samples from test set based on some criteria of difficulty, Evaluate summaries for selected test set samples.
     - About 25 top-scoring, extractive, abstractive and extract-abstract models are considered. 
     - Metrics considered include (all recall based versions are used)
-    <img src='../Images/reits1.jpg'>
+    <img src='../Images/REITS1.jpg'>
+    
     - For manual evaluation, LitePyramid method is used which presents SCUs (Semantic content units) that can be referenced from the ground truth summary to the user with the system summary for the sample, then the model is score dependent on the number of SCUs that can be inferred.
 - Findings
     - Many attested properties of metrics on TAC dataset demonstrate different trends of CNN/DailyMail. 
