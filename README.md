@@ -55,6 +55,7 @@ These will either be paper implementations or/and reviews of various papers and 
 - Analyzing sentence fusion in Abstractive Summarization [[Paper](https://www.aclweb.org/anthology/D19-5413.pdf)][[Review](./Review/ASFAS.md)]
 - On the Abstractiveness of Neural Document Summarization [[Paper](https://www.aclweb.org/anthology/D18-1089.pdf)][[Review](./Review/OANDS.md)]
 - Evaluating the Factual Consistency of Abstractive Text Summarization. [[Paper](https://arxiv.org/pdf/1910.12840.pdf)][[Review](./Review/EFCATS.md)]
+- Summ-Eval: Re-evaluating Summarization Evaluation [[Paper](https://arxiv.org/pdf/2007.12626.pdf)][[Review](./Review/summeval.md)]
 <!-- - Abstractive Text Summarization by Incorporating Reader Comments [[Paper]()][[Review]()]
 - Global Encoding For Abstractive Summarization [[Paper]()][[Review]()]
 - HIBERT [[Paper]()][[Review]()] -->
