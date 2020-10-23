@@ -7,5 +7,22 @@
   - Share a toolkit for evaluating summarization models across a broad range of automated metrics
   - Share the largest and most diverse (in terms of model types) collection of human judgements, of model 
   generated summaries by both experts and crowd source workers.
-- 
-  
+- The evaluation metrics considered include
+  - ROUGE 
+  - ROUGE-WE            
+  - Bert-Score
+  - S^3
+  - Mover Score
+  - Sentence Mover's Similarity
+  - SummaQA
+  - BLEU
+  - CHRF
+  - METEOR
+  - CIDEr
+  - Data Statistics
+- Human annotations are observed along 4 dimensions, Coherence, Consistency, Fluency and Relevance.
+- Findings
+  - Most metrics have highest correlation within relevance dimension (although can we either can called weak or moderate)
+  - Model correlations decrease considerably across the other dimensions.
+  - Extractive coverage and percentage of novel bi-grams correlated moderately with consistency, which shows how within the current frameworks, abstraction may be at odds with faithfulness.
+  - Pegasus, BART and T5 perform best on most dimensions. Notably, they perform best on consistency and fluency while obtaining lower scores for relevance and coherence.
