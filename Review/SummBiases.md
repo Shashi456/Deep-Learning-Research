@@ -6,6 +6,7 @@
     - diversity: ensuring minimal redundancy between summary sentences
 - They also conduct an extensive analysis of the biases of each sub-aspect wrt to 9 different summarization corpora and therefore a notion of "corpora-bias" is established as shown in the figure below.
 <img src='../Images/SysSumm1.png'>
+
 - It's found that except XSUM, summarization of personal and news articles is biased towards position while academic articles are well balanced. Summarizing long documents is a fundamentally difficult task which requires the usage of these multiple aspects. 
 - A notion of the 3 sub-aspects is built formally using a BERT sentence encoder:
     - For position, k sentences are chosen from three sections which are the First, last and middle parts of the document. 
