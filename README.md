@@ -72,6 +72,7 @@ These will either be paper implementations or/and reviews of various papers and 
 - Von Mises-Fisher Loss for training Seq2Seq Models with Continous Outputs [[Paper](https://arxiv.org/pdf/1812.04616.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/VonMisesLoss.md)]
 - Neural Text Degeneration with Unlikelihood Training [[Paper](https://arxiv.org/abs/1908.04319)][[Review](./Review/unlikelihooddegen.md)]
 - The curious case of neural text degeneration [[Paper](https://arxiv.org/abs/1904.09751)] [[Review](./Review/ccdegen.md)]
+- Parameter Selection: Why We Should Pay More Attention to It [[Paper](https://arxiv.org/abs/2107.05393)] [[Review](./Review/parasel.md)]
 
 ## Question Answering
 - Generalizing Question Answering System with Pre-trained Language Model Fine-tuning [[Paper](https://www.aclweb.org/anthology/D19-5827/)][[Review](./Review/GeneralizingQAXLNET.md)]
