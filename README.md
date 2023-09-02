@@ -1,12 +1,29 @@
+# Research
+
+Just a list of papers i read everyday and notes to keep a track of them. I used to read a variety of papers pre 2023 and you can look at them in the [Pre-2023 section](#pre-2023).
+
+
+# 2nd September 2023
+
+ 
+
+
+## <a id="pre-2023"></a>Pre 2023
 # Papers
-These will either be paper implementations or/and reviews of various papers and notes for conference sessions, I will read/watch over time. I currently research on Abstractive Summarization ( A task within NLP).
+These will either be paper implementations or/and reviews of various papers and notes for conference sessions, I will read/watch over time. I currently research on Abstractive Summarization ( A task within NLP) 
 
 
-## Adversarial Examples
+
+## <a id="adversarial-examples"></a>Adversarial Examples
 - Explaining and Harnessing Adversarial Examples [[Paper](https://arxiv.org/pdf/1412.6572v3.pdf)] [[Review](https://github.com/Shashi456/Papers/blob/master/Review/Explaining%20and%20Harnesssing%20Adversarial%20Examples.md)]
 - Intriguing Properties of Neural Networks [[Paper](https://arxiv.org/abs/1312.6199)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Intriguing%20Properties%20of%20Neural%20Networks.md)]
 - Practical BlackBox attacks against machine learning [[Paper](https://arxiv.org/abs/1602.02697)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Practical%20Black%20Box%20Attack%20against%20Machine%20Learning.md)]
-<?--The Limitations of deep learning in adversarial settings [[Paper](https://arxiv.org/abs/1511.07528)][[Review]()])--?>
+<?--The Limitations of deep learning in adversarial settings [[Paper](https://arxiv.org/abs/151
+<!-- ## Adversarial Examples
+- Explaining and Harnessing Adversarial Examples [[Paper](https://arxiv.org/pdf/1412.6572v3.pdf)] [[Review](https://github.com/Shashi456/Papers/blob/master/Review/Explaining%20and%20Harnesssing%20Adversarial%20Examples.md)]
+- Intriguing Properties of Neural Networks [[Paper](https://arxiv.org/abs/1312.6199)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Intriguing%20Properties%20of%20Neural%20Networks.md)]
+- Practical BlackBox attacks against machine learning [[Paper](https://arxiv.org/abs/1602.02697)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/Practical%20Black%20Box%20Attack%20against%20Machine%20Learning.md)]
+<?--The Limitations of deep learning in adversarial settings [[Paper](https://arxiv.org/abs/1511.07528)][[Review]()])--?> -->
 
 ## Neural Style
 - Neural Algorithm of Artistic Style [[Paper](https://arxiv.org/pdf/1508.06576.pdf)][[Review](https://github.com/Shashi456/Papers/blob/master/Review/A%20Neural%20Algorithm%20of%20Artistic%20Style.md)][[Code](https://github.com/Shashi456/Neural-Style)][[Article](https://towardsdatascience.com/neural-style-transfer-series-part-2-91baad306b24)]
